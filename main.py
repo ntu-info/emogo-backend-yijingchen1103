@@ -5,7 +5,7 @@ from motor.motor_asyncio import AsyncIOMotorClient
 
 # ==== 1. 設定 MongoDB 連線 ====
 
-MONGODB_URI = "mongodb+srv://yjchen_db_user:Onv5Qwuw7ATFGuo6@cluster0.qybxanc.mongodb.net/"
+MONGODB_URI = "mongodb+srv://yjchen_db_user:Onv5Qwuw7ATFGuo6@cluster0.qybxanc.mongodb.net/?retryWrites=true&w=majority"
 DB_NAME = "emogo_data"   # 你在 Compass 裡建立的 database 名稱
 
 app = FastAPI()
