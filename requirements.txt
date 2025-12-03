@@ -1,1 +1,4 @@
-fastapi[all]
+fastapi
+uvicorn[standard]
+motor[srv]
+pydantic
