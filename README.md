@@ -28,11 +28,15 @@ Or simply click:
 
 Thanks to [Harish](https://harishgarg.com) for the [inspiration to create a FastAPI quickstart for Render](https://twitter.com/harishkgarg/status/1435084018677010434) and for some sample code!
 
-## Backend Base URL
+
+
+# Homework
+
+- Base URL  
 https://emogo-backend-yijingchen1103.onrender.com
 
-## Data Export Endpoints
+- Interactive API documentation (Swagger)  
+https://emogo-backend-yijingchen1103.onrender.com/docs
 
-- Vlogs: https://emogo-backend-yjchen1103.onrender.com/vlogs
-- Sentiments: https://emogo-backend-yjchen1103.onrender.com/sentiments
-- GPS: https://emogo-backend-yjchen1103.onrender.com/gps
+- Data Export/Download  
+https://emogo-backend-yijingchen1103.onrender.com/export-data
