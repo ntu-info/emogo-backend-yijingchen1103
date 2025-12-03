@@ -40,3 +40,7 @@ https://emogo-backend-yijingchen1103.onrender.com/docs
 
 - Data Export/Download  
 https://emogo-backend-yijingchen1103.onrender.com/export-data
+
+- Human-AI interaction history
+    - chatGPT-5 https://chatgpt.com/share/692fc0b4-a530-8009-9c9b-4d2b12cbfcaf
+    
